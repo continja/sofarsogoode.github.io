@@ -3,8 +3,30 @@
 	{% include head.html %}
 
 	<body>
-		{% include post_content.html %}
+
+		{% include header.html %}
+    	
+		<section id="post_content">
+		<!-- Page Content -->
+			<div class="content-section-full">
+
+				<div class="container">
+					<div class="row">
+		                <div class="col-lg-8 col-lg-offset-2 col-sm-8 col-sm-offset-2">
+
+							<div class="lead">{{ content }}</div>
+						</div>
+					</div>
+
+		        </div>
+		        <!-- /.container -->
+	
+			</div>
+			<!-- /.content-section-a -->
+		</section>
+
 		{% include footer.html %}
 		{% include js.html %}
+
 	</body>
 </html>
