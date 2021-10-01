@@ -1,0 +1,17 @@
+# main links
+main:
+  - title: "Rules for Viewing"
+    url: /the_rules/
+  - title: "Show Info"
+    url: /show_info/
+  # - title: "Archives"
+  # - title: "Quick-Start Guide"
+  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/

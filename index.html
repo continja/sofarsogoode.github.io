@@ -1,6 +1,38 @@
 ---
-layout: home
-title: So far... so Goode.
-subTitle: |
-img: intro-bg.jpg
+layout: splash
+permalink: /
+author_profile: true
+header:
+  overlay_image: /assets/images/intro-bg.jpg
+excerpt: The Goode Family Light Show - Austin, TX
+masthead_title: ""
+
+feature_row1:
+  - image_path: /assets/images/Halloween2021.png
+    alt: "Halloween 2021"
+    title: "Halloween 2021"
+    excerpt: "Halloween 2021 is our first big light show. Enjoy!"
+    url: "/shows/Halloween-2021"
+    btn_class: "btn--primary"
+    btn_label: "Read more"
+feature_row2:
+  - image_path: /assets/images/2020-christmas.jpg
+    alt: "Christmas 2020"
+    title: "Christmas 2020"
+    excerpt: "Ok, being honest, Halloween 2021 won't be our *first* light show. I did, in fact, build something that was impressive for what it was."
+    url: "/shows/Christmas-2020/"
+    btn_class: "btn--primary"
+    btn_label: "Read more"
+feature_row3:
+  - image_path: /assets/images/social_awareness_dont-just-ride-C.jpg
+    alt: "National MS Society - Texas MS150"
+    title: "National MS Society- Texas MS150"
+    excerpt: "We're not asking you to financially support the show. But if you enjoy it and would like to show your appreciation, please consider helping us reach our fundraising goal by donating to the National MS Society to support their efforts to help those affected by multiple sclerosis."
+    url: "https://mssociety.donordrive.com/participant/chadgoode"
+    btn_class: "btn--primary"
+    btn_label: "Donate Now!"
 ---
+
+{% include feature_row id="feature_row1" type="right" %}
+{% include feature_row id="feature_row2" type="left" %}
+{% include feature_row id="feature_row3" type="right" %}
