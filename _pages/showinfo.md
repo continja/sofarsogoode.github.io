@@ -7,6 +7,7 @@ header:
   teaser: # /assets/images/teaser.jpg
 excerpt: Probably more than you ever wanted to know.
 toc: true
+toc_sticky: true
 ---
 
 ## Our Location
