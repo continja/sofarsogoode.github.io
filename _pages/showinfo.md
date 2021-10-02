@@ -59,7 +59,7 @@ The overall solution makes it easy to assemble and disassemble with minimal perm
 
 The center pole of the Mega-Tree (Christmas show only) is a 10' length of galvanized iron pipe. 
 
-At the bottom, the center pole is attached to some EMT conduit bent and joined into a semi-circle. The pipe and conduit are attached using connectors from <a href="https://makerpipe.com" target="_new">MakerPipe</a> (which, incidentally, are used generously throughout the whole display and highly recommended). This bottom structure is raised about 6" off the ground, and held in place with rebar driving through the support legs and into the ground.
+At the bottom, the center pole is attached to some EMT conduit bent and joined into a semi-circle. The pipe and conduit are attached using connectors from <a href="https://makerpipe.com" target="_new">MakerPipe</a> (which, incidentally, are used generously throughout the whole display and highly recommended). This bottom structure is raised about 6" off the ground, and held in place with rebar driven through the EMT conduit/floor flange support legs and into the ground.
 
 At the top, the center pole is connected to a custom tree-topper from <a href="https://boscoyostudio.com/" target="_new">Boscoyo Studios</a> with a floor flange. J-hooks connect to the tree topper and stretch 24 strands of lights, each holding 60 lights, to the bottom where they are attached with bungee balls.
 
@@ -75,7 +75,7 @@ The mesh used to hold the lights in position was purchased from Boscoyo Studios.
 
 ### Mini-Trees
 
-The Mini-Trees (Christmas show only) are contructed of EMT conduit slipped over a piece of rebar driven into the ground. The lights are attached to standard Mega-Tree mounting strips and 1/2 of a ChromaPole set, both purchased from Boscoyo Studios. The strings of lights are connected to a ChromaPole plate at the top, and held to the ground with tent stakes and small bungee cords. Each mini-tree has 108 individual lights.  
+The Mini-Trees (Christmas show only) are constructed of EMT conduit slipped over a piece of rebar driven into the ground. The lights are attached to standard Mega-Tree mounting strips and 1/2 of a ChromaPole set, both purchased from Boscoyo Studios. The strings of lights are connected to a ChromaPole plate at the top, and held to the ground with tent stakes. Each mini-tree has 108 individual lights.  
 
 ### Tombstones
 
