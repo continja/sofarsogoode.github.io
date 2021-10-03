@@ -76,6 +76,8 @@ The mesh used to hold the lights in position was purchased from Boscoyo Studios.
 
 ### Mini-Trees
 
+![image-left](/assets/images/showinfo/mini-tree.jpg){: .align-left} 
+
 The Mini-Trees (Christmas show only) are constructed of EMT conduit slipped over a piece of rebar driven into the ground. The lights are attached to standard Mega-Tree mounting strips and 1/2 of a ChromaPole set, both purchased from Boscoyo Studios. The strings of lights are connected to a ChromaPole plate at the top, and held to the ground with tent stakes. Each mini-tree has 108 individual lights.  
 
 ### Tombstones
