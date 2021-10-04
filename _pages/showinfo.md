@@ -42,6 +42,8 @@ For developing the show sequences and effects, we use <a href="https://xlights.o
 
 To run the show, we use <a href="https://github.com/FalconChristmas/fpp" target="_new">Falcon Player (FPP)</a>.
 
+For scheduling and automation tasks, we use <a href="https://www.home-assistant.io/" target="_new">Home Assistant</a>.
+
 ## Features
 
 ### House Outline
