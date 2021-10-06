@@ -20,7 +20,7 @@ title                    : "So far... so Goode"
 title_separator          : "-"
 subtitle                 : sofarsogoode.com
 name                     : "Chad Goode"
-description              : "The Goode Family holiday light show, located in Cedar Park, TX (north Austin). Currently running Halloween 2021 and getting ready for Christmas." 
+description              : "The Goode Family holiday light show, located in Cedar Park, TX (north Austin). Currently running Halloween 2021 and getting ready for Christmas!" 
 url                      : https://sofarsogoode.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
