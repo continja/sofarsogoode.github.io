@@ -18,15 +18,15 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "So far... so Goode"
 title_separator          : "-"
-subtitle                 : 
+subtitle                 : sofarsogoode.com
 name                     : "Chad Goode"
-description              : "A site dedicated to the Goode Family holiday light show."
+description              : "The Goode Family holiday light show, located in Cedar Park, TX (north Austin). Currently running Halloween 2021 and getting ready for Christmas." 
 url                      : https://sofarsogoode.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : sofarsogoode.com # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : Home # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -97,8 +97,8 @@ author:
   name             : "Chad Goode"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : 
-  location         : 
-  email            :
+  location         : "Cedar Park, TX"
+  email            : "sofarsogoode2021@opayq.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
