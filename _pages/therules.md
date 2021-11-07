@@ -19,6 +19,8 @@ We hope everyone enjoys the show. We also want to keep providing this bit of ent
 
 **Do Not Disturb Occupants** – Neither we nor our neighbors are providing public restroom facilities – please plan ahead before leaving your house.
 
+**Keep Radio Volume Reasonable** - Providing the music via FM radio is to allow you to listen in your car or using a portable radio without disturbing the neighbors. Turning the volume up a bit so you can stand outside your car is fine. But please don't blast your stereo so loud that the neighbors can hear it inside their homes.
+
 **Keep Off Private Property** – If you are observing the display on foot, please observe from the sidewalks only. Please do not stand on lawns or driveways.
 
 **Avoid Blocking The Display** – If possible, please park tall vehicles away or across the street from our display so that others can observe it. If there is not ample parking, please park on a side street and visit the display on foot.
