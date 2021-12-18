@@ -108,7 +108,7 @@ The light poles on either side of the front door use Boscoyo ChromaPole top/bott
 
 ---
 
-Finally, some have commented after watching the videos that it looks as if I have some lights going out. Fortunately, it's not the lights. I have a big Live Oak tree in front of the house that is obvious when you see it in person and much less distracting than in the videos.
+Finally, some have commented after watching the videos that it looks as if I have some lights going out. Fortunately, it's not the lights. I have a big Live Oak tree in front of the house and some smaller trees and shrubs in front of the porch that are obvious when you see it in person and much less distracting than in the videos.
 
 ![image-left](/assets/images/showinfo/house-halloween2021.jpg){: .align-left} 
 
