@@ -1,2 +1,0 @@
-# sofarsogoode.github.io
- 
